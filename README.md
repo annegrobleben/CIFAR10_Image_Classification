@@ -5,7 +5,7 @@ This notebook is based on an assignment done as part of a Master in Data Science
 3. Optimizer, error function
 4. We prepare the data
 5. Training
-6 Model Optimization
+6. Model Optimization
 - Model2
 - Model3
 - Model4
