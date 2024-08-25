@@ -1,4 +1,4 @@
-This notebook is based on an assignment done as part of a Master in Data Science & AI at Nuclio Digital School, it shows how to train a convoluational neural network (CNN) that assigns images in the CIFAR10 dataset from the Keras library to 10 different categories with an accuracy of at least 80% on the test set. It is divided into eight sections:
+This notebook is based on an assignment done as part of a Master in Data Science & AI at Nuclio Digital School (2024), it shows how to train a convoluational neural network (CNN) that assigns images in the CIFAR10 dataset from the Keras library to 10 different categories with an accuracy of at least 80% on the test set. It is divided into eight sections:
 
 1. Libraries
 2. Model network architecture
